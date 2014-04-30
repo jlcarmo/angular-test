@@ -157,3 +157,5 @@ $RECYCLE.BIN/
 Properties/
 Web.config
 *.csproj
+Scripts/
+packages.config
